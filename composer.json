@@ -1,0 +1,10 @@
+{
+    "require": {
+        "zelenin/elo": "dev-master"
+    },
+    "config": {
+      "github-oauth": {
+            "github.com": "61bec155053da59173df5dd940ee9cb24d5fcadb"
+        }
+    }
+}
